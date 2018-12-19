@@ -2,7 +2,9 @@ body
 {
 	color: #444;
 	margin: auto;
+	width: auto;
 	max-width:650px;
+	min-width: 450px;
 	line-height: 1.5;
 	font-size: 18px;
 }
