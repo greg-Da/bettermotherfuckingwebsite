@@ -8,3 +8,14 @@ body
 	line-height: 1.5;
 	font-size: 18px;
 }
+
+#button
+{
+	cursor:pointer;
+	position:absolute;
+	right:10px;
+	font-size:.85em;
+	text-decoration:underline;
+	background-color:#d57def
+
+}
